@@ -1,6 +1,8 @@
 function Home(){
     return <p>
-        muito entendo
+        🙃🙃🙃🙃🙃🙃🙃🙃🙃
+        <br/>
+        <br/>muito entendo
         <br/>uma barganha envolvida
         <br/>mal me entendo
         <br/>e nem comece hipocrisias envolver
